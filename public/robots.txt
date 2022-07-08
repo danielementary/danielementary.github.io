@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://danielementary.github.io/sitemap.xml

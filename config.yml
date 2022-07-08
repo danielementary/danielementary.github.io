@@ -1,0 +1,121 @@
+baseURL: https://danielementary.github.io/
+languageCode: en-us
+title: Danielementary Website
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Danielementary Website
+  description: Daniel Filipe Nunes Silva's Website
+  keywords: [Blog, Resume]
+  author: Daniel Filipe Nunes Silva
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  # ShowReadingTime: true
+  # ShowShareButtons: true
+  # ShowPostNavLinks: true
+  # ShowBreadCrumbs: true
+  # ShowCodeCopyButtons: false
+  # ShowWordCount: true
+  # ShowRssButtonInSectionTermList: true
+  # UseHugoToc: true
+  # disableSpecial1stPost: false
+  # disableScrollToTop: false
+  # comments: false
+  # hidemeta: false
+  # hideSummary: false
+  # showtoc: false
+  # tocopen: false
+
+  # assets:
+  #   # disableHLJS: true # to disable highlight.js
+  #   # disableFingerprinting: true
+  #   favicon: "<link / abs url>"
+  #   favicon16x16: "<link / abs url>"
+  #   favicon32x32: "<link / abs url>"
+  #   apple_touch_icon: "<link / abs url>"
+  #   safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: Danielementary Website
+
+  profileMode:
+    enabled: true
+    title: Daniel Filipe Nunes Silva
+    subtitle: Communication Systems Engineer specialized in Cybersecurity
+    imageUrl: pp_daniel_filipe_nunes_silva.jpeg
+    imageWidth: 230
+    imageHeight: 230
+    imageTitle: My profile picture
+    # buttons:
+    #   - name: Posts
+    #     url: posts
+    #   - name: Tags
+    #     url: tags
+
+  socialIcons:
+    - name: keybase
+      url: https://keybase.io/danielementary
+    - name: twitter
+      url: https://twitter.com/danielementary
+    - name: github
+      url: https://github.com/danielementary
+    - name: cv
+      url: cv_daniel_filipe_nunes_silva.pdf
+    - name: linkedin
+      url: https://www.linkedin.com/in/danielementary
+
+  # cover:
+  #   hidden: true # hide everywhere but not in structured data
+  #   hiddenInList: true # hide on list pages and home
+  #   hiddenInSingle: true # hide on single page
+
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # https://fusejs.io/api/options.html
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 0
+  #   keys: ["title", "permalink", "summary", "content"]
+
+# menu:
+#   main:
+#     - identifier: categories
+#       name: categories
+#       url: /categories/
+#       weight: 10
+#     - identifier: tags
+#       name: tags
+#       url: /tags/
+#       weight: 20
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#   highlight:
+#     noClasses: false
+#     # anchorLineNos: true
+#     # codeFences: true
+#     # guessSyntax: true
+#     # lineNos: true
+#     # style: monokai
