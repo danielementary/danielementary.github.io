@@ -55,10 +55,10 @@ params:
   profileMode:
     enabled: true
     title: Daniel Filipe Nunes Silva
-    subtitle: Communication Systems Engineer specialized in Cybersecurity
+    subtitle: Cybersecurity, Coffee and Watchmaking Enthusiast
     imageUrl: pp_daniel_filipe_nunes_silva.jpeg
-    imageWidth: 230
-    imageHeight: 230
+    imageWidth: 270
+    imageHeight: 270
     imageTitle: My profile picture
     # buttons:
     #   - name: Posts
