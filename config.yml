@@ -1,6 +1,6 @@
 baseURL: https://danielementary.me
 languageCode: en-us
-title: Danielementary Website
+title: "@danielementary"
 paginate: 5
 theme: PaperMod
 
@@ -14,15 +14,16 @@ minify:
   minifyOutput: true
 
 params:
+  homeInfoParams:
+      Title: Hey there, it's Daniel!
+      Content: I write about Specialt Coffee and Cybersecurity.
   env: production
-  title: Danielementary Website
-  description: Daniel Filipe Nunes Silva's Website
-  keywords: [Blog, Resume]
+  title: "@danielementary"
+  description: Daniel Filipe Nunes Silva's Corner of the Web
+  keywords: [Blog]
   author: Daniel Filipe Nunes Silva
-  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
-  # disableThemeToggle: true
 
   # ShowReadingTime: true
   # ShowShareButtons: true
@@ -50,21 +51,7 @@ params:
   #   safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: Danielementary Website
-
-  profileMode:
-    enabled: true
-    title: Daniel Filipe Nunes Silva
-    subtitle: Cybersecurity, Specialty Coffee, and Watchmaking Enthusiast
-    imageUrl: pp_daniel_filipe_nunes_silva.jpeg
-    imageWidth: 270
-    imageHeight: 270
-    imageTitle: My profile picture
-    # buttons:
-    #   - name: Posts
-    #     url: posts
-    #   - name: Tags
-    #     url: tags
+    text: "@danielementary"
 
   socialIcons:
     - name: github
