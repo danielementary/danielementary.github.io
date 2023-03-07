@@ -3,9 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://danielementary.me/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://danielementary.me/categories/</loc>
+    <loc>https://danielementary.me/tags/blog/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielementary.me/tags/cybersecurity/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielementary.me/posts/first/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielementary.me/posts/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielementary.me/tags/specialty-coffee/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://danielementary.me/tags/</loc>
+    <lastmod>2023-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://danielementary.me/categories/</loc>
   </url>
 </urlset>

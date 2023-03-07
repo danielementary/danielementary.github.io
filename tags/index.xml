@@ -5,6 +5,34 @@
     <link>https://danielementary.me/tags/</link>
     <description>Recent content in Tags on @danielementary</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://danielementary.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://danielementary.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://danielementary.me/tags/blog/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielementary.me/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://danielementary.me/tags/cybersecurity/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielementary.me/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specialty Coffee</title>
+      <link>https://danielementary.me/tags/specialty-coffee/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielementary.me/tags/specialty-coffee/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
