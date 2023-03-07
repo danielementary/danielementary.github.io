@@ -73,8 +73,6 @@ params:
       url: https://twitter.com/danielementary
     - name: github
       url: https://github.com/danielementary
-    - name: cv
-      url: cv_daniel_filipe_nunes_silva.pdf
     - name: linkedin
       url: https://www.linkedin.com/in/danielementary
 
