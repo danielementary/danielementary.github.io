@@ -67,12 +67,12 @@ params:
     #     url: tags
 
   socialIcons:
-    - name: keybase
-      url: https://keybase.io/danielementary
-    - name: twitter
-      url: https://twitter.com/danielementary
     - name: github
       url: https://github.com/danielementary
+    - name: twitter
+      url: https://twitter.com/danielementary
+    - name: keybase
+      url: https://keybase.io/danielementary
     - name: linkedin
       url: https://www.linkedin.com/in/danielementary
 
