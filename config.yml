@@ -19,18 +19,18 @@ params:
       Content: I write about Specialt Coffee and Cybersecurity.
   env: production
   title: "@danielementary"
-  description: Daniel Filipe Nunes Silva's Corner of the Web
-  keywords: [Blog]
-  author: Daniel Filipe Nunes Silva
+  description: Daniel's Corner of the Web
+  keywords: ["Blog", "Specialty Coffee", "Cybersecurity"]
+  author: Daniel
   DateFormat: "January 2, 2006"
   defaultTheme: auto
 
-  # ShowReadingTime: true
+  ShowReadingTime: true
   # ShowShareButtons: true
   # ShowPostNavLinks: true
   # ShowBreadCrumbs: true
   # ShowCodeCopyButtons: false
-  # ShowWordCount: true
+  ShowWordCount: true
   # ShowRssButtonInSectionTermList: true
   # UseHugoToc: true
   # disableSpecial1stPost: false
