@@ -16,7 +16,7 @@ minify:
 params:
   homeInfoParams:
       Title: Hey there, it's Daniel!
-      Content: I write about Specialt Coffee and Cybersecurity.
+      Content: I write about Specialty Coffee and Cybersecurity.
   env: production
   title: "@danielementary"
   description: Daniel's Corner of the Web
