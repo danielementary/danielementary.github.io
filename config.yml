@@ -58,6 +58,8 @@ params:
       url: https://github.com/danielementary
     - name: twitter
       url: https://twitter.com/danielementary
+    - name: instagram
+      url: https://instagram.com/thewhiteflat.coffee
 
   # cover:
   #   hidden: true # hide everywhere but not in structured data
