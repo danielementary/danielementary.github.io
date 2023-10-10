@@ -58,10 +58,6 @@ params:
       url: https://github.com/danielementary
     - name: twitter
       url: https://twitter.com/danielementary
-    - name: keybase
-      url: https://keybase.io/danielementary
-    - name: linkedin
-      url: https://www.linkedin.com/in/danielementary
 
   # cover:
   #   hidden: true # hide everywhere but not in structured data
