@@ -1,6 +1,6 @@
 baseURL: https://danielementary.me
 languageCode: en-us
-title: "@danielementary"
+title: "Daniel Brews and Bytes"
 paginate: 5
 theme: PaperMod
 
@@ -18,7 +18,7 @@ params:
       Title: Hey there, it's Daniel!
       Content: I write about Specialty Coffee and Cybersecurity.
   env: production
-  title: "@danielementary"
+  title: "Daniel Brews and Bytes"
   description: Daniel's Corner of the Web
   keywords: ["Blog", "Specialty Coffee", "Cybersecurity"]
   author: Daniel
@@ -51,7 +51,7 @@ params:
   #   safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "@danielementary"
+    text: "Daniel Brews and Bytes"
 
   socialIcons:
     - name: github
