@@ -16,11 +16,11 @@ minify:
 params:
   homeInfoParams:
       Title: Hey there, it's Daniel!
-      Content: I write about Specialty Coffee and Cybersecurity.
+      Content: I write about Specialty Coffee and Coding.
   env: production
   title: "Brews and Bytes"
   description: Daniel's Corner of the Web
-  keywords: ["Blog", "Specialty Coffee", "Cybersecurity"]
+  keywords: ["Blog", "Specialty Coffee", "Coding"]
   author: Daniel
   DateFormat: "January 2, 2006"
   defaultTheme: auto
