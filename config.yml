@@ -58,6 +58,8 @@ params:
       url: https://github.com/danielementary
     - name: twitter
       url: https://twitter.com/danielementary
+    - name: telegram
+      url: https://t.me/danielementary
     - name: instagram
       url: https://instagram.com/thewhiteflat.coffee
     - name: email
