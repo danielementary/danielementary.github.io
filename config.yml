@@ -60,6 +60,8 @@ params:
       url: https://twitter.com/danielementary
     - name: instagram
       url: https://instagram.com/thewhiteflat.coffee
+    - name: email
+      url: mailto:mail@danielementary.me
 
   # cover:
   #   hidden: true # hide everywhere but not in structured data
