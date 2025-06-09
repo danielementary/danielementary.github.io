@@ -4,17 +4,16 @@
     <title>Coding on Brews and Bytes</title>
     <link>https://danielementary.me/tags/coding/</link>
     <description>Recent content in Coding on Brews and Bytes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://danielementary.me/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://danielementary.me/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://danielementary.me/posts/first/</link>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://danielementary.me/posts/first/</guid>
       <description>My first blog post</description>
     </item>
-    
   </channel>
 </rss>

@@ -4,7 +4,8 @@
     <title>Categories on Brews and Bytes</title>
     <link>https://danielementary.me/categories/</link>
     <description>Recent content in Categories on Brews and Bytes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://danielementary.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielementary.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
