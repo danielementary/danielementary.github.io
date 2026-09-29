@@ -20,7 +20,7 @@ params:
   description: "Daniel, brewing specialty coffee and engineering software."
   keywords: [Specialty Coffee, Software Engineering]
   author: Daniel
-  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["pp.jpeg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -41,14 +41,13 @@ params:
   showtoc: false
   tocopen: false
 
-  # assets:
-  #   # disableHLJS: true # to disable highlight.js
-  #   # disableFingerprinting: true
-  #   favicon: "<link / abs url>"
-  #   favicon16x16: "<link / abs url>"
-  #   favicon32x32: "<link / abs url>"
-  #   apple_touch_icon: "<link / abs url>"
-  #   safari_pinned_tab: "<link / abs url>"
+  assets:
+    # disableFingerprinting: true
+    favicon: favicon.ico
+    favicon16x16: favicon-16x16.png
+    favicon32x32: favicon-32x32.png
+    apple_touch_icon: apple-touch-icon.png
+    # safari_pinned_tab: "<link / abs url>"
 
   label:
     text: danielementary
@@ -57,7 +56,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Daniel
-    subtitle: "Brewing and engineering."
+    subtitle: "Brewing and Engineering"
     imageUrl: pp.jpeg
     imageWidth: 150
     imageHeight: 150
@@ -80,7 +79,7 @@ params:
     - name: email
       url: "mailto:mail@danielementary.me"
     - name: pgp
-      url: 0x9EF76A58.asc
+      url: /0x9EF76A58.asc
 
   # cover:
   #   hidden: true # hide everywhere but not in structured data
@@ -98,6 +97,11 @@ params:
 #       name: tags
 #       url: /tags/
 #       weight: 10
+
+# https://gohugo.io/host-and-deploy/host-on-github-pages/
+caches:
+  images:
+    dir: :cacheDir/images
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 markup:
