@@ -74,8 +74,6 @@ params:
       url: "https://x.com/danielementary"
     - name: telegram
       url: "https://t.me/danielementary"
-    - name: instagram
-      url: "https://instagram.com/thewhiteflat.coffee"
     - name: email
       url: "mailto:mail@danielementary.me"
     - name: pgp
